@@ -91,6 +91,4 @@ npm start
 
 Your default web browser will open, and you'll see the React app running at `http://localhost:3000`.
 
-## Summary
 
-You've successfully set up a local development environment for running a Node.js Express app that interacts with a PostgreSQL database and a React app. The backend server fetches data and serves it via API endpoints, while the React app interacts with these endpoints to display the data. This environment allows you to develop and test your application locally. Feel free to modify and expand upon the codebase as needed. Happy coding!
