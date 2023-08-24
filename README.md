@@ -36,7 +36,7 @@ npm install
 ### 3. Set Up PostgreSQL Database
 
 Ensure your local PostgreSQL server is running.
-
+create a "demodb" database in local PostgresSQL and 
 Open the `database.js` file in the `backend` directory and update the PostgreSQL configuration:
 
 ```javascript
