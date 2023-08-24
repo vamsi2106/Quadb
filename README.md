@@ -6,8 +6,7 @@ This guide outlines the steps required to set up a local development environment
 
 - Node.js and npm (Node Package Manager) installed on your local machine
 - PostgreSQL database installed and running locally
-- Git installed for version control
-- Basic understanding of the command line interface
+
 
 ## Steps
 
